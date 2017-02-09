@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "OpenHtmlToPdf": "1.12.0"
+      }
+    }
+   }
+}
